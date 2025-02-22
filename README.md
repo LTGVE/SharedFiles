@@ -1,2 +1,3 @@
 # SharedFiles
-Shared My Files for who in ne
+Shared My Files for who in need
+/nmean: Store files and share
